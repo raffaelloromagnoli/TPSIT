@@ -1,0 +1,3 @@
+D:/Scuola/TPSIT/ES_C/ES005_Rubrica/cmake-build-debug/CMakeFiles/ES005_Rubrica.dir
+D:/Scuola/TPSIT/ES_C/ES005_Rubrica/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Scuola/TPSIT/ES_C/ES005_Rubrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ES005_Rubrica.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ES005_Rubrica.dir/objects.a @CMakeFiles\ES005_Rubrica.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ES005_Rubrica.dir/objects.a -Wl,--no-whole-archive  -o ES005_Rubrica.exe -Wl,--out-implib,libES005_Rubrica.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ES005_Rubrica.dir\linklibs.rsp
