@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Scuola/TPSIT/ES_C/ROMAGNOLI_RAFFAELLO/main.c
+stdio.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ROMAGNOLI_RAFFAELLO.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ROMAGNOLI_RAFFAELLO.dir/objects.a @CMakeFiles\ROMAGNOLI_RAFFAELLO.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ROMAGNOLI_RAFFAELLO.dir/objects.a -Wl,--no-whole-archive  -o ROMAGNOLI_RAFFAELLO.exe -Wl,--out-implib,libROMAGNOLI_RAFFAELLO.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ROMAGNOLI_RAFFAELLO.dir\linklibs.rsp
