@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ES006_Plague.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ES006_Plague.dir/objects.a @CMakeFiles\ES006_Plague.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ES006_Plague.dir/objects.a -Wl,--no-whole-archive  -o ES006_Plague.exe -Wl,--out-implib,libES006_Plague.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ES006_Plague.dir\linklibs.rsp

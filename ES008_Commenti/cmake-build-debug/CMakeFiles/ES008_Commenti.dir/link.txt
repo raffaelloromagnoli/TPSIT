@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ES008_Commenti.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ES008_Commenti.dir/objects.a @CMakeFiles\ES008_Commenti.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ES008_Commenti.dir/objects.a -Wl,--no-whole-archive  -o ES008_Commenti.exe -Wl,--out-implib,libES008_Commenti.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ES008_Commenti.dir\linklibs.rsp
