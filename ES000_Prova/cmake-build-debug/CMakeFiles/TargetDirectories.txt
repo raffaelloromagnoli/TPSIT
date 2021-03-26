@@ -1,0 +1,3 @@
+D:/Scuola/TPSIT/ES_C/ES000_Prova/cmake-build-debug/CMakeFiles/ES000_Prova.dir
+D:/Scuola/TPSIT/ES_C/ES000_Prova/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Scuola/TPSIT/ES_C/ES000_Prova/cmake-build-debug/CMakeFiles/rebuild_cache.dir

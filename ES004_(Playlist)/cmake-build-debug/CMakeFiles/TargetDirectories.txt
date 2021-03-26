@@ -1,0 +1,3 @@
+D:/Scuola/TPSIT/ES_C/ES004_(Playlist)/cmake-build-debug/CMakeFiles/ES004__Playlist_.dir
+D:/Scuola/TPSIT/ES_C/ES004_(Playlist)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Scuola/TPSIT/ES_C/ES004_(Playlist)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

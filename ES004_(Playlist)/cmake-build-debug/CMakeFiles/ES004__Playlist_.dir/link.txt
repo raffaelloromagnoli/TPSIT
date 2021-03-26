@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ES004__Playlist_.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ES004__Playlist_.dir/objects.a @CMakeFiles\ES004__Playlist_.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ES004__Playlist_.dir/objects.a -Wl,--no-whole-archive  -o ES004__Playlist_.exe -Wl,--out-implib,libES004__Playlist_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ES004__Playlist_.dir\linklibs.rsp
