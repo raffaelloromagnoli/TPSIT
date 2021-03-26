@@ -1,0 +1,3 @@
+D:/Scuola/TPSIT/ES_C/ES013_Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Scuola/TPSIT/ES_C/ES013_Tree/cmake-build-debug/CMakeFiles/ES013_Tree.dir
+D:/Scuola/TPSIT/ES_C/ES013_Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

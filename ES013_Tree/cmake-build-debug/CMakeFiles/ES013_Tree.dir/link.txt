@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ES013_Tree.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ES013_Tree.dir/objects.a @CMakeFiles\ES013_Tree.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ES013_Tree.dir/objects.a -Wl,--no-whole-archive  -o ES013_Tree.exe -Wl,--out-implib,libES013_Tree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ES013_Tree.dir\linklibs.rsp
